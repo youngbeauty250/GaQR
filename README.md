@@ -16,7 +16,7 @@ Teacher Stage 1: Write a passage that answers the following query: What does the
 
 Answer: The legal term demur is defined as a formal objection raised by a party in response to a pleading or motion filed by the opposing party. It indicates that the party does not agree with the claims or arguments presented in the pleading or motion and requests the court to dismiss or strike it... 
 
-Teacher Stage 2: You are a search engine. Below are a query and its answer: query: **{Query in Stage 1}** answer: **{Answer in Stage 1}**\nIn order to obtain information corresponding to this answer, please provide at least three rewritten queries. Do not answer the rewritten queries. Don't output any words other than the rewritten queries.  
+Teacher Stage 2: You are a search engine. Below are a query and its answer: query: **{Query in Stage 1}** answer: **{Answer in Stage 1}** In order to obtain information corresponding to this answer, please provide at least three rewritten queries. Do not answer the rewritten queries. Don't output any words other than the rewritten queries.  
 
 Rewritten Quries: 1. What is the purpose of a demurrer in the legal system? 2. How is a demurrer used in civil cases?  3. Can a party challenge the legal sufficiency of a pleading through a demurrer?
 
