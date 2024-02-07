@@ -1,6 +1,6 @@
 python train.py \
     --model_name_or_path /Llama-2-7b-chat-hf \
-    --data_path /data/hotpotqa_train_data_0103 \
+    --data_path /data/train_data \
     --bf16 True \
     --output_dir s2_output-Llama-2-7b-chat-hf \
     --num_train_epochs 3 \
