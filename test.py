@@ -118,5 +118,7 @@ def test():
     time_end = time.time() # 记录结束时间
     time_sum = time_end - time_start
     print(time_sum)
+
+test()
 test()
 data_transfer()
